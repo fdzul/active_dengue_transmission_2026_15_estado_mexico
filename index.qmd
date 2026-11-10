@@ -19,7 +19,7 @@ library(fishualize)
 source("~/Library/CloudStorage/Dropbox/r_developments/r_dashboards/netlify/1.2.persisten_dengue_transmission_2026/persistent_dengue_transmission_10_durango/mp_dengue_cases.R")
 
 estado <- "15"
-localidad1 <- "Vill de Luvianos"
+localidad1 <- "Villa de Luvianos"
 localidad2 <- "Huatulco"
 localidad2 <- "Puerto Escondido"
 
@@ -31,7 +31,7 @@ localidad2 <- "Puerto Escondido"
 
 ::: panel-tabset
 
-### [**Mezquital**]{style="color:#990000"}
+### [**Villa de Luvianos**]{style="color:#990000"}
 
 ```{=html}
 <style>
